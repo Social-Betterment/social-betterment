@@ -1,0 +1,35 @@
+{
+  "manifest_version": 3,
+  "name": "Social Betterment",
+  "version": "1.0",
+  "description": "Intercepts text submissions and makes sure it is positive content.",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "host_permissions": [
+    "https://commentanalyzer.googleapis.com/*"
+  ],
+  "icons": {
+    "16": "icon16.svg",
+    "48": "icon48.svg"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://*.reddit.com/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": ["social_betterment_logo.svg", "dialog.css"],
+      "matches": ["*://*.reddit.com/*"]
+    }
+  ]
+}
