@@ -7,9 +7,9 @@ This was vibe coded in 2 days. You have the confidence to take it and make work 
 
 ## Users
 
-Download the file named 'Social Betterment.zip'.
+Download this file named [Social Betterment.zip](https://github.com/portfoliospreadsheets/social-betterment/raw/refs/heads/main/Social%20Betterment.zip)
 
-Unzip the Chrome Extension into a folder and follow these [instructions](https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/#load-unpacked)
+Unzip the Chrome Extension into a folder and follow these [instructions].(https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/#load-unpacked)
 
 ## Developers
 
