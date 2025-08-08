@@ -1,7 +1,9 @@
-# Social Betterment
-We intercept your social media posts to tell you if your writing is toxic. [Chrome Extension]
+# Social Betterment [Chrome Extension]
+We intercept your social media posts to tell you if your writing is toxic. 
 
-This was vibe coded in 2 days. You have the confidence to take it and modify it too.
+It only works with Reddit.
+
+This was vibe coded in 2 days. You have the confidence to take it and make work somewhere else too.
 
 ## Users
 
