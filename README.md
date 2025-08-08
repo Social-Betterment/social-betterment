@@ -7,12 +7,6 @@ This was vibe coded in 2 days. You have the confidence to take it and make work 
 
 <img src="https://github.com/portfoliospreadsheets/social-betterment/blob/main/Social%20Betterment.png" width="600">
 
-## Users
-
-Download this file named [Social Betterment.zip](https://github.com/portfoliospreadsheets/social-betterment/raw/refs/heads/main/Social%20Betterment.zip)
-
-Unzip the Chrome Extension into a folder and follow these [instructions].(https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/#load-unpacked)
-
 ## Developers
 
 To experiment with this prototype, please clone this repo and use 'Load Unpacked Extension'.
